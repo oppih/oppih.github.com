@@ -9,14 +9,14 @@ var:
   tags_path : /tags.html
   rss_path: /atom.xml
 
-production_url : http://username.github.com # or your custom domain name
-title : Jekyll Bootstrap
+production_url : http://oppih.github.com # or your custom domain name
+title : oppih | Jekyll Bootstrap
 
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : oppih Xue 
+  email : letwego28@gmail.com 
+  github : oppih
+  twitter : oppih28
   feedbuder : feedname
 
 exclude: .rbenv-version
