@@ -1,3 +1,30 @@
+# From oppih: a better way to keep up with Jekyll-Bootstrap
+
+The official guide tells me to clone it and re-set the remote repo:
+
+    $ git clone https://github.com/plusjade/jekyll-bootstrap.git oppih.github.com
+    $ cd oppih.github.com
+    $ git remote set-url origin git@github.com:oppih/oppih.github.com.git
+    $ git push origin master
+
+But as I did so, I cannot get new features from the rapid development of Jekyll-Bootstrap.
+
+So I'd recommand you to to it like this:
+
+    $ git clone https://github.com/plusjade/jekyll-bootstrap.git oppih.github.com
+    $ cd oppih.github.com
+    $ git remote set-url origin git@github.com:oppih/oppih.github.com.git
+    $ git remote add jekyllbootstrap git://github.com/plusjade/jekyll-bootstrap.git
+    $ git push origin master
+
+You can use `git remote -v` to see what remotes you have.
+
+And if you want to get new features from Jekyll-Bootstrap, juse do:
+
+    $ git pull jekyllbootstrap master
+
+Then use `git status` to check what changes. You may encounter **conflicts** with some files especially **_config.yml**. Merge it manually and then just push to your site!
+
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
