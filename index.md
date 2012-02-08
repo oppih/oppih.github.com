@@ -4,7 +4,7 @@ title: Hello Git(Hub)!
 ---
 {% include JB/setup %}
 
-### Just another site setuped by **oppih** using Jekyll-bootstrap :)
+### Just another site setuped by [oppih](http://oppih.me) using Jekyll-bootstrap :)
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
