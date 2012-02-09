@@ -25,3 +25,5 @@ tags: [about, jekyll, bootstrap, github]
 
 ----
 说点小野心，作为个“野生程序员”，要实践 [**一万小时**](http://www.geekonomics10000.com/519) 和 [**在学习区刻意练习，每天500行**](http://www.yangzhiping.com/tech/learn-program-psychology.html)，要走的路还长着呢。。
+
+开动吧！
