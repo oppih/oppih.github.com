@@ -11,7 +11,7 @@ tags: [about, jekyll, bootstrap, github]
 
 赶上之前看到的[Octopress](http://octopress.org)很COOL的样子，前几天开始尝试了一下，用在了[Solve Rubywarrior](http://oppih.github.com/rubywarrior-solve/)上（欢迎围观~）。
 
-也是很凑巧，又看到了这个比较新鲜的项目：[Jekyll-bootstrap](http://jekyll-bootstrap.com)，出于尝鲜的心理，选择了这个作为 GitHub 二级主域名的展示方案。
+也是很凑巧，又看到了这个比较新鲜的项目：[Jekyll-bootstrap](http://jekyllbootstrap.com)，出于尝鲜的心理，选择了这个作为 GitHub 二级主域名的展示方案。
 
 另外一个原因是，我开始学习 Ruby/Rails 啦，**Jekyll** 这么又好玩又强大的东西，当然要积极试用了！
 
