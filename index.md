@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Hello Git(Hub)!
+title: Another Hole on Git(Hub)
 ---
 {% include JB/setup %}
 
-### Just another site setuped by **oppih** using Jekyll-bootstrap :)
+### Just another site setuped by oppih using Jekyll-bootstrap :)
     
 ## Recent Posts
 
