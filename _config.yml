@@ -7,7 +7,7 @@ auto: true
 pygments: true
 
 production_url : http://oppih.github.com # or your custom domain name
-title : oppih on Git(Hub) | Jekyll Bootstrap
+title : oppih on Git(Hub) 
 
 author :
   name : oppih Xue 
