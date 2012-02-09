@@ -6,6 +6,8 @@ tags: [Rails, Railscast, tutorial, notes]
 ---
 {% include JB/setup %}
 
+[围观 Railscasts-China.com](http://railscasts-china.com)
+
 ## [2012-01-13] 初次接触 Rails，跟完001
 
 周末闲着，就开始捣鼓，下载了视频，开始跟做 demo，照着 001 做出了 blog 的基本框架。
@@ -16,7 +18,7 @@ tags: [Rails, Railscast, tutorial, notes]
 
 添加 comments 这里做的很自然（以一个不会web开发的小白的视角来看），具体的话，要上代码：
 
-post.rb
+**post.rb**
 
     class Post < ActiveRecord::Base
   	  validates :title, :presence => true, :uniqueness => true
@@ -25,7 +27,7 @@ post.rb
   	  has_many :comments
 	end
 
-comments.rb
+**comments.rb**
 
 	class Comment < ActiveRecord::Base
   	  belongs_to :post
