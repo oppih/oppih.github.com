@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Another Hole on Git(Hub)
+title: Another Hole
 ---
 {% include JB/setup %}
 
-### Just another site setuped by [oppih](http://oppih.me) using Jekyll-bootstrap :)
+### Just another site by [oppih](http://oppih.me) :)
     
 ## Recent Posts
 
@@ -13,5 +13,3 @@ title: Another Hole on Git(Hub)
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
