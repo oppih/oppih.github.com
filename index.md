@@ -7,7 +7,7 @@ tagline: Supporting tagline
 
 ### Just another site by [oppih](http://oppih.me) :)
 
-![Marcos](http://en.wikipedia.org/wiki/File:Subcomandante_Marcos.jpg)
+![Marcos](http://upload.wikimedia.org/wikipedia/commons/3/3a/Subcomandante_Marcos.jpg)
 
 ## Recent Posts
 
