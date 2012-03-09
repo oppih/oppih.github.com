@@ -2,7 +2,7 @@
 layout: post
 title: "SaaS 第一周作业完成"
 category: 
-tags: [Saas, Ruby, MetaProgramming]
+tags: [notes, Saas, Ruby, MetaProgramming]
 ---
 {% include JB/setup %}
 
