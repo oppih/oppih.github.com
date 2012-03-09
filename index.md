@@ -12,6 +12,7 @@ tagline: Supporting tagline
 
 [About Subcomandante Marcos](http://en.wikipedia.org/wiki/Subcomandante_Marcos)
 
+----
 ## Recent Posts
 
 <ul class="posts">
