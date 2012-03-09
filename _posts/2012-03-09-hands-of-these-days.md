@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "前段时间画的手"
-category: 
+category: drawing
 tags: [drawing, hand]
 ---
 {% include JB/setup %}
