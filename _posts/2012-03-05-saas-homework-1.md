@@ -16,7 +16,7 @@ tags: [notes, Saas, Ruby, MetaProgramming]
 ----
 我自己的作业存到了 [GitCafe](http://gitcafe.com/oppih/SaaS_hw) 上。仅供围观 XD
 
-** 简单对这次作业做个总结：**
+#### 简单对这次作业做个总结：
 
 这次作业的一半是自己完成的，第1題做字符处理，貌似是我首次真正使用正则表达式（惭愧惭愧），参考的是[Ruby正则表达式操作参考](http://qianjigui.iteye.com/blog/1390067)，接着应该把[Intro to Regular Expressions (Ruby)](http://jimmy-li.net/blog/programming/hello-world/)看了吧。
 
@@ -35,12 +35,12 @@ tags: [notes, Saas, Ruby, MetaProgramming]
 第3题，属于基本功力问题，自己逻辑抽象能力欠佳，不能将问题转化为编程的问题……所以看了别人写的答案（感觉不是那么的ruby味……）
 
 ----
-** 关于 Metaprogramming **
+#### 关于 Metaprogramming
 
 4、5 两題，涉及面向对象以及元编程，对我这个水平来说是相当抽象的东西了，看了 《Ruby Programming Language》 中第八章的的 `class_eval` 相关内容，还不足以做作业，另外找到的一些学习资料：[Metaprogramming in Ruby](http://ruby-metaprogramming.rubylearning.com/html/ruby_metaprogramming_3.html) 
 
 ----
-** 关于测试 **
+#### 关于测试
 
 在自己写代码的过程中，因为要反复测试自己写出的代码是否能正常工作，所以就一直用 puts 语句来做，直到看到在 [这里](https://github.com/tapichu/saas-class)（GitHub） 有位同学写了测试。对我来说就是用来看源代码学习如何写测试用例。
 
