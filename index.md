@@ -6,7 +6,9 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 ### Just another site by [oppih](http://oppih.me) :)
-    
+
+![Marcos](http://en.wikipedia.org/wiki/File:Subcomandante_Marcos.jpg)
+
 ## Recent Posts
 
 <ul class="posts">
