@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Another Hole
-tagline: Supporting tagline
+tagline: about hacking and drawing
 ---
 {% include JB/setup %}
 
