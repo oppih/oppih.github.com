@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Enable Ctrol+R (history search) in ZSH"
+title: "Enable Ctrl+R (history search) in ZSH"
 category: Note
 tags: [zsh]
 ---
