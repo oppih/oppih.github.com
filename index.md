@@ -8,7 +8,7 @@ tagline: about => :hacking, :drawing
 ### Just another site by [oppih](http://oppih.me) :)
 
 ----
-![Marcos](http://img39.ph.126.net/gqp2GUgqnJ4f0PNsVucgaw==/3148016139533681686.jpg)
+![Marcos](http://img1.douban.com/view/note/large/public/p24502577-1.jpg)
 
 [About Subcomandante Marcos](http://en.wikipedia.org/wiki/Subcomandante_Marcos)
 
